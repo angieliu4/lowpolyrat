@@ -1,12 +1,6 @@
-# Projects for Game Development
+# *LOWPOLY RAT*
 
-## Term 3 Projects
-
----
-
-### *LOWPOLY RAT(CURRENT PROJECT)*
-
-*There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. But the question is: how?*
+###*There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. But the question is: how?*
 
 #### *MOCK-UP*
 
@@ -14,7 +8,7 @@
 
 #### *DIAGRAM*
 
-![RatDiagram](https://github.com/angieliu4/PIXELfun/blob/main/images/ratdiagram.png?raw=true)
+![RatDiagram](https://github.com/angieliu4/lowpolyrat/blob/main/images/ratdiagram.png?raw=true)
 
 ##### *GAME CONTENT*
 
