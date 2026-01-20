@@ -2,6 +2,8 @@
 
 ### *There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. The question is: how?*
 
+---
+
 #### *MOCK-UP*
 
 ![RATGAME](https://github.com/angieliu4/lowpolyrat/blob/main/images/ratgame.png?raw=true)
